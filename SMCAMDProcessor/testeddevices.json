@@ -1,3 +1,7 @@
 [
-  "AMD Ryzen 9 3900X 12-Core Processor", 
+  {
+    "name": "AMD Ryzen 9 3900X 12-Core Processor",
+    "supported": true,
+    "version": "0.3.1"
+  }
 ]
